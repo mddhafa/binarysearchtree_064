@@ -140,7 +140,8 @@ int main()
 		}
 		case '2':
 		{
-
+			obj.inorder(obj.ROOT);
+			break;
 		}
 		case '3':
 		{
