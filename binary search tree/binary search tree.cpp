@@ -120,6 +120,7 @@ int main()
 		cout << "1. Implement insert operation" << endl;
 		cout << "2. perform inorder traversal" << endl;
 		cout << "3. perform preorder traversal" << endl;
+		cout << "4. perform postorder traversal" << endl;
 		
 	}
 }
