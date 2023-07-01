@@ -115,4 +115,7 @@ int main()
 {
 	BinaryTree obj;
 	while (true)
+	{
+		cout << "\nMenu" << endl;
+	}
 }
