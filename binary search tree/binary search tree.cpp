@@ -119,6 +119,7 @@ int main()
 		cout << "\nMenu" << endl;
 		cout << "1. Implement insert operation" << endl;
 		cout << "2. perform inorder traversal" << endl;
+		cout << "3. perform preorder traversal" << endl;
 		
 	}
 }
